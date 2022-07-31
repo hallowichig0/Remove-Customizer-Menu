@@ -5,10 +5,10 @@
  * Description: Remove Customizer Menu allow you to hide the navigation menu from the Customizer.
  * Version: 1.0.0
  * Author: Jayson Garcia (Github - hallowichig0)
- * Author URI: http://jegson.herokuapp.com
+ * Author URI: https://hallowichig0.github.io
  * License: GPLv2 or later
  * License URI: http://www.gnu.org/licenses/gpl-2.0.html
-*/
+*
 
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
